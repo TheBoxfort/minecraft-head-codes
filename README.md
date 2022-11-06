@@ -49,3 +49,15 @@ Codes are for Minecraft 1.16+
 !(https://raw.githubusercontent.com/TheBoxfort/minecraft-head-codes/main/head-samples/ii-yinyang.png)
 
 ```/give @p minecraft:player_head{display:{Name:"{\"text\":\"Yinyang\"}"},SkullOwner:{Id:[I;1716093116,-653900686,-1612683445,-1894544666],Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDU0YzgxNDE3ZDZiY2M2NmU0MTNmNTk5YTFkNWYxNGMzY2I5M2IxN2NhZWIxYWVjNmViYWNkOWMxNjZhYjllMCJ9fX0="}]}}} 1```
+
+### Lightbulb Plush
+
+!(https://raw.githubusercontent.com/TheBoxfort/minecraft-head-codes/main/head-samples/ii-lightbulb.png)
+
+```/give @p minecraft:player_head{display:{Name:"{\"text\":\"Lightbulb\"}"},SkullOwner:{Id:[I;1717444539,925125386,-2053605128,-1196655324],Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTY0ZWNlZDllODM1YjY5Yjk5MDdmMzFmYjViYzYzNDRiZGZjNjMyMDE4NzU4ZTg4ZTY5YTllYWRlMDQ5ZDE4OCJ9fX0="}]}}} 1```
+
+### Test Tube Plush
+
+!(https://raw.githubusercontent.com/TheBoxfort/minecraft-head-codes/main/head-samples/ii-testtube.png)
+
+```/give @p minecraft:player_head{display:{Name:"{\"text\":\"Test Tube\"}"},SkullOwner:{Id:[I;-589661364,-1438169072,-1489192311,769688307],Properties:{textures:[{Value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODhiZmM4Y2JjNWRmNTg1NGJmMzlmZTBmNGI2NDgyNTU1N2U0Mjg4YWNhNWVjNzliYTIwOTdjYTA3MjFiYTVhNCJ9fX0="}]}}} 1```
